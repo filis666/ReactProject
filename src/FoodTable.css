@@ -1,0 +1,27 @@
+.food-table {
+    border-collapse: collapse; 
+    margin-bottom: 20px; 
+  }
+  
+  .food-table th,
+  .food-table td {
+    border: 1px solid #ddd;
+    padding: 8px; 
+  }
+  
+  .food-table th {
+    text-align: left; 
+    background-color: Azure; 
+  }
+  
+  .food-table td {
+    background-color: #F0F8FF; 
+    color: black; 
+  }
+  
+  .food-table button {
+    margin: 4px; 
+  }
+  
+  
+  

@@ -1,0 +1,23 @@
+.food-search-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px; 
+    margin-top: 25px;
+  }
+  
+  .food-search-input {
+    flex: 1;
+    max-width: 200px; 
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px; 
+  }
+  
+  .food-search-icon {
+    margin-left: 6px; 
+    font-size: 16px; 
+    cursor: pointer;
+  }
+  
+  
